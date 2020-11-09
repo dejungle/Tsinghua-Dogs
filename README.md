@@ -29,10 +29,6 @@ The annoation of each image is stored in a seperate `xml` file with a root tag `
 
 ## Statistics
 
-[![]](./figures/dog-cnt.jpg)
-[![]](./figures/body-proportion.png)
-[![]](./figures/head-proportion.png)
-
 * Number of categories: 130;
 * Total number of images: 70428;
 * Number of training: 65228;
