@@ -1,4 +1,11 @@
 # Tsinghua-Dogs
+<div align="center">
+ <img src="figures/breed-difference.png" />
+ Fig. 1 Variation in Tsinghua Dogs dataset. (a) Great Danes exhibit large variations in appearance, while (b) Norwich terriers and (c) Australian terriers are quite similar to each other.
+</div>
+
+<br />
+
 Tsinghua Dogs is a fine-grained classification dataset for dogs, over 65% of whose images are collected from people's real life. Each dog breed in the dataset contains at least 200 images and a maximum of 7,449 images, basically in proportion to their frequency of occurrence in China, so it significantly increases the diversity for each breed over existing dataset (see Fig. 1). Furthermore, Tsinghua Dogs annotated bounding boxes of the dog’s whole body and head in each image (see Fig. 2), which can be used for supervising the training of learning algorithms as well as testing them.
 
 Details about Tsinghua Dogs can be found in this [paper](https://doi.org/10.1007/s41095-020-0184-6). 
@@ -6,6 +13,11 @@ Details about Tsinghua Dogs can be found in this [paper](https://doi.org/10.1007
 ## Dataset
 
 ## Anotations
+
+<div align="center">
+ <img src="figures/annotations.png" />
+ Fig. 2 Annoations: bounding boxes for whole dogs (<font color="blue">blue</font>) and their heads (<font color="red">red</font>).
+</div>
 
 ## Download
 
@@ -30,6 +42,11 @@ We have benchmarked several classification methods on our dataset, including bot
 | 2 | [TBMSL-Net](https://github.com/ZF1044404254/TBMSL-Net) | Resnet50  | 6 | 200 | 83.7 | 2020 |
 | 3 | [PMG](https://github.com/RuoyiDu/PMG-Progressive-Multi-Granularity-Training) | Resnet50 | 16 | 200 | 83.5 | 2020 |
 | 4 | [Inception v3](https://pytorch.org/hub/pytorch_vision_inception_v3) | Inception v3 | 64 | 200 | 77.7 | 2016 |
+
+## Useful links
+
+* Project home page: https://cg.cs.tsinghua.edu.cn/ThuDogs/.
+* Research home page: https://cg.cs.tsinghua.edu.cn.
 
 ## Citing
 
