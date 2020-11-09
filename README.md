@@ -23,7 +23,7 @@ Tsinghua Dogs annotated bounding boxes of the dog’s whole body and head in eac
 
 The annoation of each image is stored in a seperate `xml` file with a root tag `annotation`, all annotation infomation is included in the following tags:
 
-* `name`: category name;
+* `name`: name of the dog breed;
 * `headbndbox`: bounding box of the head;
 * `bodybndbox`: bounding box of the whole body.
 
