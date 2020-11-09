@@ -18,9 +18,15 @@ Details about Tsinghua Dogs can be found in this [paper](https://doi.org/10.1007
  Fig. 2 Annoations: bounding boxes for whole dogs (<font color="blue">blue</font>) and their heads (<font color="red">red</font>).
 </div>
 
+<br />
 Tsinghua Dogs annotated bounding boxes of the dog’s whole body and head in each image (see Fig. 2), which can be used for supervising the training of learning algorithms as well as testing them.
 
 ## Statistics
+
+* Number of categories: 130;
+* Total number of images: 70428;
+* Number of training: 65228;
+* Number of validation: 5200.
 
 ## Download
 
