@@ -6,18 +6,21 @@
 
 <br />
 
-Tsinghua Dogs is a fine-grained classification dataset for dogs, over 65% of whose images are collected from people's real life. Each dog breed in the dataset contains at least 200 images and a maximum of 7,449 images, basically in proportion to their frequency of occurrence in China, so it significantly increases the diversity for each breed over existing dataset (see Fig. 1). Furthermore, Tsinghua Dogs annotated bounding boxes of the dog’s whole body and head in each image (see Fig. 2), which can be used for supervising the training of learning algorithms as well as testing them.
+Tsinghua Dogs is a fine-grained classification dataset for dogs, over 65% of whose images are collected from people's real life. Each dog breed in the dataset contains at least 200 images and a maximum of 7,449 images, basically in proportion to their frequency of occurrence in China, so it significantly increases the diversity for each breed over existing dataset (see Fig. 1). 
 
 Details about Tsinghua Dogs can be found in this [paper](https://doi.org/10.1007/s41095-020-0184-6). 
 
-## Dataset
-
-## Anotations
+## Anotation
 
 <div align="center">
  <img src="figures/annotations.png" />
+ <br />
  Fig. 2 Annoations: bounding boxes for whole dogs (<font color="blue">blue</font>) and their heads (<font color="red">red</font>).
 </div>
+
+Tsinghua Dogs annotated bounding boxes of the dog’s whole body and head in each image (see Fig. 2), which can be used for supervising the training of learning algorithms as well as testing them.
+
+## Statistics
 
 ## Download
 
