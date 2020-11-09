@@ -19,7 +19,10 @@ Details about Tsinghua Dogs can be found in this [paper](https://doi.org/10.1007
 </div>
 
 <br />
-Tsinghua Dogs annotated bounding boxes of the dog’s whole body and head in each image (see Fig. 2), which can be used for supervising the training of learning algorithms as well as testing them. The annoation is stored in `xml` file with a root tag `annotation`
+Tsinghua Dogs annotated bounding boxes of the dog’s whole body and head in each image (see Fig. 2), which can be used for supervising the training of learning algorithms as well as testing them. The annoation is stored in `xml` file with a root tag `annotation`, :
+* `name`: category name;
+* `headbndbox`: bounding box of the head;
+* `bodybndbox`: bounding box of the whole body.
 
 ## Statistics
 
