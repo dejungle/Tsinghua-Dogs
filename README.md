@@ -15,7 +15,7 @@ Details about Tsinghua Dogs can be found in this [paper](https://doi.org/10.1007
 <div align="center">
  <img src="figures/annotations.png" />
  <br />
- Fig. 2 Annoations: bounding boxes for whole dogs (<font color="blue">blue</font>) and their heads (<font color="red">red</font>).
+ Fig. 2 Annoation. Bounding boxes for whole dogs (<font color="blue">blue</font>) and their heads (<font color="red">red</font>).
 </div>
 
 <br />
