@@ -11,7 +11,14 @@ Details about Tsinghua Dogs can be found in this [paper](https://doi.org/10.1007
 
 The dataset provides two versions of images to download: high resolution and low resolution.
 
+1. Low resolution:
+2. High resolution:
+3. Train and validation splition:
+
 ## Benchmarking
+
+### Fine-grained classification
+We have benchmarked several classification methods on our dataset, including both general neural networks and fine-grained models which exhibit good performance on other fine-grained datasets.
 
 | Rank | Model | Backbone | Batchsize | Epochs | Accuracy (%) | Year | 
 |:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
