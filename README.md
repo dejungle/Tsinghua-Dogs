@@ -11,9 +11,13 @@ Details about Tsinghua Dogs can be found in this [paper](https://doi.org/10.1007
 
 The dataset provides two versions of images to download: high resolution and low resolution.
 
-1. Low resolution:
-2. High resolution:
-3. Train and validation splition:
+* Low resolution
+  * Images (2.5 GB): [low-resolution](https://cloud.tsinghua.edu.cn/f/80013ef29c5f42728fc8/?dl=1)
+  * Annotations: [low-annotations](https://cg.cs.tsinghua.edu.cn/ThuDogs/low-annotations.zip)
+* High resolution
+  * Images (38.8GB): [high-resolution.001](https://cloud.tsinghua.edu.cn/f/d2031efb239c4dde9c6c/?dl=1),[high-resolution.002](https://cloud.tsinghua.edu.cn/f/6a242a6bba664537ba45/?dl=1),[high-resolution.003](https://cloud.tsinghua.edu.cn/f/d17034fa14f54e4381d8/?dl=1),[high-resolution.004](https://cloud.tsinghua.edu.cn/f/3740fc44cd484e1cb089/?dl=1),[high-resolution.005](https://cloud.tsinghua.edu.cn/f/ff5d96a0bc4e4dba9004/?dl=1),[high-resolution.006](https://cloud.tsinghua.edu.cn/f/d5fe5c88198c4387a7bb/?dl=1),[high-resolution.007](https://cloud.tsinghua.edu.cn/f/b13d6710ac85487e9487/?dl=1),[high-resolution.008](https://cloud.tsinghua.edu.cn/f/b6cf354fd04b4fe0b909/?dl=1),[high-resolution.009](https://cloud.tsinghua.edu.cn/f/06a421a528044b15838c/?dl=1)
+  * Annotations: [high-annotations](https://cg.cs.tsinghua.edu.cn/ThuDogs/high-annotations.zip)
+* Train and validation split:
 
 ## Benchmarking
 
